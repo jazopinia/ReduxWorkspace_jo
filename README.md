@@ -1,2 +1,7 @@
 # ReduxWorkspace_jo
-Redux Projects
+React and Redux Projects:
+
+Pics
+Seasons
+Videos
+
